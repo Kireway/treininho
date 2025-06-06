@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: aquamarine;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+main{
+    text-align: center;
+}
+
+footer{
+    bottom: 0;
+    position: fixed;
+    background-color: aquamarine;
+    text-align: center;
+    padding: 5px;
+}
